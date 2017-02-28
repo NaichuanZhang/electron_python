@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "request-promise": "*",
-    "electron-prebuilt": "*"
+    "electron": "^1.4.1"
   }
 }
